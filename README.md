@@ -14,7 +14,7 @@ Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah **Multimedia**, dengan 
 - UI sederhana untuk nyawa, dan tombol ulang.
 
 ## 🛠️ Teknologi yang Digunakan
-- **Unity Engine** (versi [misal: 2022.3.59f1])
+- **Unity Engine** (versi 2022.3.59f1)
 - **C#** untuk scripting
 - **Unity Animator** dan sprite-based animation
 - **Unity Asset Store** untuk aset tambahan
