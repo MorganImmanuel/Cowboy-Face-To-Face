@@ -34,7 +34,7 @@ Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah **Multimedia**, dengan 
 
 ## 👨‍💻 Pengembang
 - **Nama Pengembang**: Morgan Immanuel Nainggolan (202431017) & Rafly Puji Erdiansyah (202431015)
-- **Fakultas/Jurusan**: Teknik Informatika, Institut Teknologi PLN
+- **Fakultas/Jurusan**: Teknik Informatika/Institut Teknologi PLN
 - **Mata Kuliah**: Multimedia
 - **Dosen Pengampu**: Yasni Djamain, S.Kom., M.Kom
 
