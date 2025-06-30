@@ -9,7 +9,7 @@ Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah **Multimedia**, dengan 
 - Mengasah logika pemrograman dan desain antarmuka pengguna (UI).
 
 ## 🎮 Fitur Game
-- Pertarungan tembak-menembak satu lawan satu dengan karakter AI (musuh).
+- Pertarungan tembak-menembak satu lawan satu dengan karakter komputer (musuh).
 - Sistem menang/kalah berdasarkan kecepatan menembak.
 - UI sederhana untuk nyawa, dan tombol ulang.
 
