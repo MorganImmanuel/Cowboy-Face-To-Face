@@ -649,7 +649,7 @@ MonoBehaviour:
   healthText: {fileID: 487154451}
   EnemyHealthSlider: {fileID: 1551494513}
   EnemyHealthText: {fileID: 896102143}
-  pausePanel: {fileID: 0}
+  pausePanel: {fileID: 32175555}
 --- !u!1 &343965935
 GameObject:
   m_ObjectHideFlags: 0
